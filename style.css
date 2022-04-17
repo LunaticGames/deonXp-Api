@@ -1,0 +1,45 @@
+html,body{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:medium;
+    background-color: rgb(241, 241, 241);
+    text-align: center;
+    align-content: center;
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+    height: 100%;
+    width: 100%;
+ 
+    margin: 0 auto;
+   
+
+}
+
+button{
+
+    padding: 12px 50px;
+    background-color: rgb(70, 70, 70);
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-weight: bold;
+
+}
+
+button:hover{
+
+    background-color: white;
+    color: black;
+}
+
+#previewBox{
+
+    background-color: blueviolet;
+ 
+    padding: 30px 200%;
+    display: block;
+    height: 400px;
+
+
+}
